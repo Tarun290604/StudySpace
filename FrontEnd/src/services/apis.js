@@ -1,5 +1,5 @@
 // const BASE_URL = "http://localhost:4000/api/v1"
-const BASE_URL =  "https://study-space-backend.vercel.app";
+const BASE_URL =  "https://study-space-backend.vercel.app/api/v1";
 // console.log(process.env.BASE_URL);
 
 
