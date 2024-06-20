@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
     cors({
-        origin:"https://study-space-eight.vercel.app/",
+        origin:"*",
         credentials:true,
     })
 )
